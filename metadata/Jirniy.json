@@ -1,0 +1,39 @@
+{
+    "name": "Fat Ass",
+    "description": "Weighs more than any mother",
+    "image": "ipfs://bafkreifshliiwtj63k4iicb5opqoexhaqxvlnvvhhvrjiatiku4j67nrfa",
+        "attributes": [
+            {
+                "trait_type": "Weigth",
+                "value": 1000
+            },
+            {
+                "trait_type": "Power",
+                "value": 99999,
+                "max_value": 99999
+            }, 
+            {
+              "trait_type": "Stamina", 
+              "value": 99999,
+              "max_value": 99999
+            },            
+            {
+                "trait_type": "Speed", 
+                "value": 99999,
+                "max_value": 99999
+            },
+            {
+                "display_type": "date", 
+                "trait_type": "birthday", 
+                "value": 969689166
+            }, 
+            {
+              "trait_type": "Personality", 
+              "value": "Angry"
+            },            
+            {
+                "trait_type": "Ass", 
+                "value": "Fat"
+            }
+        ]
+}
