@@ -1,0 +1,15 @@
+{
+    "description": "Don't buy this token. It is scam", 
+    "image": "ipfs://QmVwVEZ92WjAandmJLY771Hfg2fTv3jYWy4eqvZaxAMgBB", 
+    "name": "Scam Token",
+    "attributes": [ 
+        {
+            "trait_type": "Personality",
+            "value": "Honest"
+        },
+        {   
+            "trait_type": "Level",
+            "value": "999"
+        }
+     ]
+  }
